@@ -11,6 +11,12 @@
 	</properties>
 	<dependencies>
 
+		<dependency>
+			<groupId>com.popo</groupId>
+			<artifactId>IotModel</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/org.eclipse.paho/org.eclipse.paho.client.mqttv3 -->
 		<dependency>
 			<groupId>org.eclipse.paho</groupId>
